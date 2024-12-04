@@ -9,6 +9,8 @@ activate it
 
 2. download the extensions for jupyter,jupyter cell tags, python extensions in vs code if using vs code 
 3. download dependencies
+
+
 pip install -r requirements.txt
 
 
